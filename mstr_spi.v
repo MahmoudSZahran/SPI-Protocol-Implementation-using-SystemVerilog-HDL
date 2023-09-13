@@ -1,11 +1,4 @@
-///////////////////////////////////////////////////////////////////////
-//  AUTHOR: Mohamed Maged Elkholy.
-//  INFO.: Undergraduate ECE student, Alexandria University, Egypt.
-//  AUTHOR'S EMAIL: majiidd17@icloud.com
-//  FILE NAME: mstr_spi.v
-//  TYPE: module.
-//  DATE: 2/3/2023
-//  KEYWORDS: SPI, Master, Serial Communication.
+
 //  PURPOSE: RTL modeling for the SPI Master Protocol.
 //  NOTE: - TICKS_PER_HALF MUST BE >= 2, 
 //          clk must be at least 2x faster than sclk
