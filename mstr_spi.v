@@ -1,4 +1,4 @@
-
+//  /////////////////////////////////////////////////////////////
 //  PURPOSE: RTL modeling for the SPI Master Protocol.
 //  NOTE: - TICKS_PER_HALF MUST BE >= 2, 
 //          clk must be at least 2x faster than sclk
